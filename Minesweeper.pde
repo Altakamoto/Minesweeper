@@ -165,7 +165,6 @@ public class MSButton
          displayLosingMessage();
          isLost = true;
       }else if(countMines(myRow, myCol) > 0) {
-        System.out.println(countMines(myRow, myCol));
         setLabel(countMines(myRow, myCol));
         revealed = true;
       }else {
