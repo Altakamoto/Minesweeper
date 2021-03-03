@@ -1,7 +1,7 @@
 import de.bezier.guido.*;
 public final static int NUM_ROWS = 10;
 public final static int NUM_COLS = 10;
-public final static int NUM_MINES = 4;
+public final static int NUM_MINES = ;
 public int totalRevealed = 0;
 public boolean isLost = false;
 public boolean winDisplayed = false;
